@@ -1,0 +1,2431 @@
+--------Generacion 1------------
+Solucion Id: 0.0
+cell-density: 2.0
+initial-infected-cell-percentage: 0.0
+viral-reach: 1.5
+infection-rate: 15.0
+mNeptune-effectiveness: 100.0
+initial-probability-of-death: 0.595
+initial-probability-of-chromatin-condensation: 2.5
+marker-detection-threashold: 0.12
+alive 1: 66.0
+dead 1: 265.0
+infected 1: 67.0
+alive 2: 573.0
+dead 2: 2811.0
+infected 2: 592.0
+alive 3: 1143.0
+dead 3: 8936.0
+infected 3: 1166.0
+alive 4: 1878.0
+dead 4: 19608.0
+infected 4: 1927.0
+alive 5: 2568.0
+dead 5: 33631.0
+infected 5: 2648.0
+Total de Celulas : 38847.0
+Fitness :13.661257066160022
+--------Generacion 1------------
+Solucion Id: 1.0
+cell-density: 2.0
+initial-infected-cell-percentage: 0.0
+viral-reach: 1.5
+infection-rate: 15.0
+mNeptune-effectiveness: 100.0
+initial-probability-of-death: 0.595
+initial-probability-of-chromatin-condensation: 2.5
+marker-detection-threashold: 0.12
+alive 1: 59.0
+dead 1: 279.0
+infected 1: 61.0
+alive 2: 604.0
+dead 2: 2960.0
+infected 2: 620.0
+alive 3: 1264.0
+dead 3: 9555.0
+infected 3: 1289.0
+alive 4: 1878.0
+dead 4: 19979.0
+infected 4: 1915.0
+alive 5: 2665.0
+dead 5: 34467.0
+infected 5: 2721.0
+Total de Celulas : 39853.0
+Fitness :13.594168846062136
+--------Generacion 1------------
+Solucion Id: 2.0
+cell-density: 2.0
+initial-infected-cell-percentage: 0.0
+viral-reach: 1.5
+infection-rate: 15.0
+mNeptune-effectiveness: 100.0
+initial-probability-of-death: 0.595
+initial-probability-of-chromatin-condensation: 2.5
+marker-detection-threashold: 0.12
+alive 1: 83.0
+dead 1: 314.0
+infected 1: 85.0
+alive 2: 603.0
+dead 2: 3084.0
+infected 2: 626.0
+alive 3: 1197.0
+dead 3: 9545.0
+infected 3: 1218.0
+alive 4: 1883.0
+dead 4: 19938.0
+infected 4: 1929.0
+alive 5: 2424.0
+dead 5: 33988.0
+infected 5: 2480.0
+Total de Celulas : 38892.0
+Fitness :14.207541878939978
+--------Generacion 1------------
+Solucion Id: 3.0
+cell-density: 2.0
+initial-infected-cell-percentage: 0.0
+viral-reach: 1.5
+infection-rate: 15.0
+mNeptune-effectiveness: 100.0
+initial-probability-of-death: 0.595
+initial-probability-of-chromatin-condensation: 2.5
+marker-detection-threashold: 0.12
+alive 1: 71.0
+dead 1: 310.0
+infected 1: 77.0
+alive 2: 583.0
+dead 2: 3143.0
+infected 2: 601.0
+alive 3: 1247.0
+dead 3: 9634.0
+infected 3: 1274.0
+alive 4: 1838.0
+dead 4: 20262.0
+infected 4: 1883.0
+alive 5: 2559.0
+dead 5: 34865.0
+infected 5: 2619.0
+Total de Celulas : 40043.0
+Fitness :13.990071568405707
+--------Generacion 1------------
+Solucion Id: 4.0
+cell-density: 2.0
+initial-infected-cell-percentage: 0.0
+viral-reach: 1.5
+infection-rate: 15.0
+mNeptune-effectiveness: 100.0
+initial-probability-of-death: 0.595
+initial-probability-of-chromatin-condensation: 2.5
+marker-detection-threashold: 0.12
+alive 1: 48.0
+dead 1: 318.0
+infected 1: 51.0
+alive 2: 611.0
+dead 2: 2997.0
+infected 2: 637.0
+alive 3: 1275.0
+dead 3: 9425.0
+infected 3: 1299.0
+alive 4: 1968.0
+dead 4: 20034.0
+infected 4: 2020.0
+alive 5: 2547.0
+dead 5: 34260.0
+infected 5: 2595.0
+Total de Celulas : 39402.0
+Fitness :13.906188224627014
+--------------------------------------Generacion 2------------
+Solucion Id: 0.0
+cell-density: 2.778575474665928
+initial-infected-cell-percentage: 2.9107289199927266
+viral-reach: 1.1667621177942697
+infection-rate: 8.59218303667205
+mNeptune-effectiveness: 76.86423910987175
+initial-probability-of-death: 0.6305270125143886
+initial-probability-of-chromatin-condensation: 0.8907045706387415
+marker-detection-threashold: 0.5537255429941509
+alive 1: 0.0
+dead 1: 51.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 702.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 2546.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 5497.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 9905.0
+infected 5: 0.0
+Total de Celulas : 9905.0
+Fitness :22.8894273675436
+--------Generacion 2------------
+Solucion Id: 1.0
+cell-density: 1.3973546057079784
+initial-infected-cell-percentage: 2.8810104156803797
+viral-reach: 2.176961843940365
+infection-rate: 11.65587607680045
+mNeptune-effectiveness: 180.81979326943255
+initial-probability-of-death: 1.2406791563508064
+initial-probability-of-chromatin-condensation: 2.5
+marker-detection-threashold: 0.6713570944572214
+alive 1: 0.0
+dead 1: 764.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 6928.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 19744.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 38777.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 43891.0
+infected 5: 0.0
+Total de Celulas : 43891.0
+Fitness :22.8894273675436
+--------Generacion 2------------
+Solucion Id: 2.0
+cell-density: 2.0
+initial-infected-cell-percentage: 0.0
+viral-reach: 1.5
+infection-rate: 15.0
+mNeptune-effectiveness: 100.0
+initial-probability-of-death: 1.019965814287303
+initial-probability-of-chromatin-condensation: 2.5
+marker-detection-threashold: 0.12
+alive 1: 5.0
+dead 1: 175.0
+infected 1: 5.0
+alive 2: 203.0
+dead 2: 2727.0
+infected 2: 209.0
+alive 3: 473.0
+dead 3: 9256.0
+infected 3: 485.0
+alive 4: 696.0
+dead 4: 19638.0
+infected 4: 716.0
+alive 5: 955.0
+dead 5: 33948.0
+infected 5: 979.0
+Total de Celulas : 35882.0
+Fitness :19.152431645019544
+--------Generacion 2------------
+Solucion Id: 3.0
+cell-density: 2.0
+initial-infected-cell-percentage: 0.0
+viral-reach: 1.5
+infection-rate: 15.0
+mNeptune-effectiveness: 100.0
+initial-probability-of-death: 0.9965713015862805
+initial-probability-of-chromatin-condensation: 2.5
+marker-detection-threashold: 0.12
+alive 1: 45.0
+dead 1: 442.0
+infected 1: 45.0
+alive 2: 227.0
+dead 2: 3829.0
+infected 2: 237.0
+alive 3: 548.0
+dead 3: 11095.0
+infected 3: 566.0
+alive 4: 830.0
+dead 4: 22123.0
+infected 4: 855.0
+alive 5: 1062.0
+dead 5: 37435.0
+infected 5: 1104.0
+Total de Celulas : 39601.0
+Fitness :19.100669379004533
+--------Generacion 2------------
+Solucion Id: 4.0
+cell-density: 2.0
+initial-infected-cell-percentage: 0.0
+viral-reach: 1.5
+infection-rate: 15.0
+mNeptune-effectiveness: 100.0
+initial-probability-of-death: 0.6119739550141123
+initial-probability-of-chromatin-condensation: 2.5
+marker-detection-threashold: 0.12
+alive 1: 60.0
+dead 1: 279.0
+infected 1: 63.0
+alive 2: 518.0
+dead 2: 2914.0
+infected 2: 527.0
+alive 3: 1190.0
+dead 3: 9490.0
+infected 3: 1218.0
+alive 4: 1824.0
+dead 4: 19875.0
+infected 4: 1875.0
+alive 5: 2422.0
+dead 5: 34426.0
+infected 5: 2477.0
+Total de Celulas : 39325.0
+Fitness :14.30990501432484
+--------------------------------------Generacion 3------------
+Solucion Id: 0.0
+cell-density: 1.3404816828304926
+initial-infected-cell-percentage: 0.07017156426886717
+viral-reach: 1.5
+infection-rate: 9.568971554326684
+mNeptune-effectiveness: 94.64311851944568
+initial-probability-of-death: 1.0469999105681453
+initial-probability-of-chromatin-condensation: 2.264796550315441
+marker-detection-threashold: 0.6616733883683779
+alive 1: 0.0
+dead 1: 24.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 508.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 1654.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 3700.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 6493.0
+infected 5: 0.0
+Total de Celulas : 6493.0
+Fitness :22.8894273675436
+--------Generacion 3------------
+Solucion Id: 1.0
+cell-density: 2.7008199449063373
+initial-infected-cell-percentage: 2.2394680234011943
+viral-reach: 1.5
+infection-rate: 9.173208507438297
+mNeptune-effectiveness: 93.58793061675019
+initial-probability-of-death: 0.6355159769742396
+initial-probability-of-chromatin-condensation: 2.0038357931335713
+marker-detection-threashold: 0.6812381651319271
+alive 1: 0.0
+dead 1: 184.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 2811.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 9877.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 20922.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 37142.0
+infected 5: 0.0
+Total de Celulas : 37142.0
+Fitness :22.8894273675436
+--------Generacion 3------------
+Solucion Id: 2.0
+cell-density: 2.0
+initial-infected-cell-percentage: 0.0
+viral-reach: 1.5
+infection-rate: 15.0
+mNeptune-effectiveness: 100.0
+initial-probability-of-death: 1.4669702535675357
+initial-probability-of-chromatin-condensation: 2.5
+marker-detection-threashold: 0.12
+alive 1: 23.0
+dead 1: 443.0
+infected 1: 25.0
+alive 2: 95.0
+dead 2: 3516.0
+infected 2: 101.0
+alive 3: 234.0
+dead 3: 10497.0
+infected 3: 237.0
+alive 4: 284.0
+dead 4: 21462.0
+infected 4: 298.0
+alive 5: 433.0
+dead 5: 36373.0
+infected 5: 458.0
+Total de Celulas : 37264.0
+Fitness :21.23122859699483
+--------Generacion 3------------
+Solucion Id: 3.0
+cell-density: 2.0
+initial-infected-cell-percentage: 0.0
+viral-reach: 1.5
+infection-rate: 15.0
+mNeptune-effectiveness: 100.0
+initial-probability-of-death: 1.3684543269542093
+initial-probability-of-chromatin-condensation: 2.5
+marker-detection-threashold: 0.12
+alive 1: 36.0
+dead 1: 590.0
+infected 1: 40.0
+alive 2: 146.0
+dead 2: 4207.0
+infected 2: 152.0
+alive 3: 280.0
+dead 3: 11562.0
+infected 3: 293.0
+alive 4: 417.0
+dead 4: 23415.0
+infected 4: 433.0
+alive 5: 510.0
+dead 5: 39379.0
+infected 5: 535.0
+Total de Celulas : 40424.0
+Fitness :21.096058897279956
+--------Generacion 3------------
+Solucion Id: 4.0
+cell-density: 1.3973546057079784
+initial-infected-cell-percentage: 2.8810104156803797
+viral-reach: 2.176961843940365
+infection-rate: 11.65587607680045
+mNeptune-effectiveness: 180.81979326943255
+initial-probability-of-death: 0.775239646669631
+initial-probability-of-chromatin-condensation: 2.5
+marker-detection-threashold: 0.6713570944572214
+alive 1: 0.0
+dead 1: 734.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 6458.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 19163.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 37566.0
+infected 4: 0.0
+alive 5: 2.0
+dead 5: 43831.0
+infected 5: 2.0
+Total de Celulas : 43835.0
+Fitness :22.883071896195784
+--------------------------------------Generacion 4------------
+Solucion Id: 0.0
+cell-density: 2.4871928583450305
+initial-infected-cell-percentage: 4.897918658104584
+viral-reach: 2.478753005720675
+infection-rate: 15.0
+mNeptune-effectiveness: 83.77964293117667
+initial-probability-of-death: 0.7619266845081897
+initial-probability-of-chromatin-condensation: 0.9540052262614356
+marker-detection-threashold: 0.6039042979440414
+alive 1: 0.0
+dead 1: 3695.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 32296.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 74326.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 78131.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 78138.0
+infected 5: 0.0
+Total de Celulas : 78138.0
+Fitness :22.8894273675436
+--------Generacion 4------------
+Solucion Id: 1.0
+cell-density: 4.313371941045493
+initial-infected-cell-percentage: 0.5110296600024361
+viral-reach: 1.1353798107862842
+infection-rate: 13.53353000921002
+mNeptune-effectiveness: 100.0
+initial-probability-of-death: 0.9696234957953479
+initial-probability-of-chromatin-condensation: 2.3527342964772453
+marker-detection-threashold: 0.12
+alive 1: 53.0
+dead 1: 595.0
+infected 1: 61.0
+alive 2: 417.0
+dead 2: 5376.0
+infected 2: 432.0
+alive 3: 822.0
+dead 3: 15875.0
+infected 3: 856.0
+alive 4: 1231.0
+dead 4: 32113.0
+infected 4: 1275.0
+alive 5: 1565.0
+dead 5: 53962.0
+infected 5: 1608.0
+Total de Celulas : 57135.0
+Fitness :19.039987694261583
+--------Generacion 4------------
+Solucion Id: 2.0
+cell-density: 1.3973546057079784
+initial-infected-cell-percentage: 2.8810104156803797
+viral-reach: 2.176961843940365
+infection-rate: 11.65587607680045
+mNeptune-effectiveness: 180.81979326943255
+initial-probability-of-death: 0.6318583495790311
+initial-probability-of-chromatin-condensation: 2.5
+marker-detection-threashold: 0.6713570944572214
+alive 1: 0.0
+dead 1: 483.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 5609.0
+infected 2: 0.0
+alive 3: 4.0
+dead 3: 17324.0
+infected 3: 4.0
+alive 4: 10.0
+dead 4: 35699.0
+infected 4: 10.0
+alive 5: 6.0
+dead 5: 43676.0
+infected 5: 6.0
+Total de Celulas : 43688.0
+Fitness :22.870296963721135
+--------Generacion 4------------
+Solucion Id: 3.0
+cell-density: 2.0
+initial-infected-cell-percentage: 0.0
+viral-reach: 1.5
+infection-rate: 15.0
+mNeptune-effectiveness: 100.0
+initial-probability-of-death: 1.1195580369311349
+initial-probability-of-chromatin-condensation: 2.5
+marker-detection-threashold: 0.12
+alive 1: 33.0
+dead 1: 526.0
+infected 1: 33.0
+alive 2: 215.0
+dead 2: 4142.0
+infected 2: 224.0
+alive 3: 412.0
+dead 3: 11664.0
+infected 3: 420.0
+alive 4: 654.0
+dead 4: 22888.0
+infected 4: 680.0
+alive 5: 875.0
+dead 5: 38054.0
+infected 5: 895.0
+Total de Celulas : 39824.0
+Fitness :19.80541099184099
+--------Generacion 4------------
+Solucion Id: 4.0
+cell-density: 2.7008199449063373
+initial-infected-cell-percentage: 2.2394680234011943
+viral-reach: 1.5
+infection-rate: 9.173208507438297
+mNeptune-effectiveness: 93.58793061675019
+initial-probability-of-death: 1.4921634399835844
+initial-probability-of-chromatin-condensation: 2.0038357931335713
+marker-detection-threashold: 0.6812381651319271
+alive 1: 0.0
+dead 1: 536.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 4571.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 13460.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 26925.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 44597.0
+infected 5: 0.0
+Total de Celulas : 44597.0
+Fitness :22.8894273675436
+--------------------------------------Generacion 5------------
+Solucion Id: 0.0
+cell-density: 3.1566859705227466
+initial-infected-cell-percentage: 0.00883936921393158
+viral-reach: 2.0407606021600406
+infection-rate: 10.484245747529654
+mNeptune-effectiveness: 137.72517473913388
+initial-probability-of-death: 1.467900859851583
+initial-probability-of-chromatin-condensation: 2.4263671482386227
+marker-detection-threashold: 0.718535893157509
+alive 1: 0.0
+dead 1: 3410.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 25278.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 70455.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 98993.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 99171.0
+infected 5: 0.0
+Total de Celulas : 99171.0
+Fitness :22.8894273675436
+--------Generacion 5------------
+Solucion Id: 1.0
+cell-density: 3.0306719941714424
+initial-infected-cell-percentage: 3.0193279835287252
+viral-reach: 2.221189294530683
+infection-rate: 14.428252978819934
+mNeptune-effectiveness: 157.96145243773492
+initial-probability-of-death: 0.7018156512536569
+initial-probability-of-chromatin-condensation: 0.8125453336620885
+marker-detection-threashold: 0.7321333078394747
+alive 1: 0.0
+dead 1: 3549.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 30911.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 82940.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 95128.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 95212.0
+infected 5: 0.0
+Total de Celulas : 95212.0
+Fitness :22.8894273675436
+--------Generacion 5------------
+Solucion Id: 2.0
+cell-density: 2.0
+initial-infected-cell-percentage: 0.0
+viral-reach: 1.5
+infection-rate: 15.0
+mNeptune-effectiveness: 100.0
+initial-probability-of-death: 0.5993838866517261
+initial-probability-of-chromatin-condensation: 2.5
+marker-detection-threashold: 0.12
+alive 1: 64.0
+dead 1: 318.0
+infected 1: 66.0
+alive 2: 651.0
+dead 2: 3087.0
+infected 2: 668.0
+alive 3: 1255.0
+dead 3: 9865.0
+infected 3: 1287.0
+alive 4: 1897.0
+dead 4: 20488.0
+infected 4: 1936.0
+alive 5: 2551.0
+dead 5: 34915.0
+infected 5: 2613.0
+Total de Celulas : 40079.0
+Fitness :14.022171572224106
+--------Generacion 5------------
+Solucion Id: 3.0
+cell-density: 4.313371941045493
+initial-infected-cell-percentage: 0.5110296600024361
+viral-reach: 1.1353798107862842
+infection-rate: 13.53353000921002
+mNeptune-effectiveness: 100.0
+initial-probability-of-death: 1.3487426285511461
+initial-probability-of-chromatin-condensation: 2.3527342964772453
+marker-detection-threashold: 0.12
+alive 1: 41.0
+dead 1: 932.0
+infected 1: 44.0
+alive 2: 218.0
+dead 2: 6268.0
+infected 2: 228.0
+alive 3: 432.0
+dead 3: 17269.0
+infected 3: 452.0
+alive 4: 603.0
+dead 4: 33886.0
+infected 4: 628.0
+alive 5: 796.0
+dead 5: 56146.0
+infected 5: 827.0
+Total de Celulas : 57769.0
+Fitness :20.93964048508482
+--------Generacion 5------------
+Solucion Id: 4.0
+cell-density: 2.0
+initial-infected-cell-percentage: 0.0
+viral-reach: 1.5
+infection-rate: 15.0
+mNeptune-effectiveness: 100.0
+initial-probability-of-death: 1.299971197094594
+initial-probability-of-chromatin-condensation: 2.5
+marker-detection-threashold: 0.12
+alive 1: 25.0
+dead 1: 487.0
+infected 1: 26.0
+alive 2: 182.0
+dead 2: 4173.0
+infected 2: 185.0
+alive 3: 321.0
+dead 3: 11907.0
+infected 3: 339.0
+alive 4: 445.0
+dead 4: 22878.0
+infected 4: 455.0
+alive 5: 653.0
+dead 5: 38495.0
+infected 5: 676.0
+Total de Celulas : 39824.0
+Fitness :20.573716201894815
+--------------------------------------Generacion 6------------
+Solucion Id: 0.0
+cell-density: 3.1566859705227466
+initial-infected-cell-percentage: 2.0170374527342605
+viral-reach: 1.3860256427907807
+infection-rate: 14.496245431329811
+mNeptune-effectiveness: 100.0
+initial-probability-of-death: 0.635781728762984
+initial-probability-of-chromatin-condensation: 2.176017959566111
+marker-detection-threashold: 0.5166279417961285
+alive 1: 0.0
+dead 1: 686.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 6390.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 19469.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 39778.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 67027.0
+infected 5: 0.0
+Total de Celulas : 67027.0
+Fitness :22.8894273675436
+--------Generacion 6------------
+Solucion Id: 1.0
+cell-density: 3.1566859705227466
+initial-infected-cell-percentage: 2.9615746329787926
+viral-reach: 2.1246243723397216
+infection-rate: 11.980653443150949
+mNeptune-effectiveness: 160.071229732393
+initial-probability-of-death: 0.8538023624370821
+initial-probability-of-chromatin-condensation: 2.4263671482386227
+marker-detection-threashold: 0.6497004601033038
+alive 1: 0.0
+dead 1: 3218.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 27111.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 77526.0
+infected 3: 0.0
+alive 4: 1.0
+dead 4: 98953.0
+infected 4: 1.0
+alive 5: 0.0
+dead 5: 99171.0
+infected 5: 0.0
+Total de Celulas : 99171.0
+Fitness :22.8894273675436
+--------Generacion 6------------
+Solucion Id: 2.0
+cell-density: 2.0
+initial-infected-cell-percentage: 0.0
+viral-reach: 1.5
+infection-rate: 15.0
+mNeptune-effectiveness: 100.0
+initial-probability-of-death: 1.139316797054537
+initial-probability-of-chromatin-condensation: 2.5
+marker-detection-threashold: 0.12
+alive 1: 24.0
+dead 1: 508.0
+infected 1: 25.0
+alive 2: 221.0
+dead 2: 3944.0
+infected 2: 227.0
+alive 3: 422.0
+dead 3: 11427.0
+infected 3: 432.0
+alive 4: 589.0
+dead 4: 22822.0
+infected 4: 602.0
+alive 5: 813.0
+dead 5: 38256.0
+infected 5: 843.0
+Total de Celulas : 39912.0
+Fitness :20.01213158425473
+--------Generacion 6------------
+Solucion Id: 3.0
+cell-density: 3.0306719941714424
+initial-infected-cell-percentage: 3.0193279835287252
+viral-reach: 2.221189294530683
+infection-rate: 14.428252978819934
+mNeptune-effectiveness: 157.96145243773492
+initial-probability-of-death: 1.0189525623573918
+initial-probability-of-chromatin-condensation: 0.8125453336620885
+marker-detection-threashold: 0.7321333078394747
+alive 1: 0.0
+dead 1: 4080.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 33829.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 86912.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 95204.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 95212.0
+infected 5: 0.0
+Total de Celulas : 95212.0
+Fitness :22.8894273675436
+--------Generacion 6------------
+Solucion Id: 4.0
+cell-density: 2.0
+initial-infected-cell-percentage: 0.0
+viral-reach: 1.5
+infection-rate: 15.0
+mNeptune-effectiveness: 100.0
+initial-probability-of-death: 0.7495403583384579
+initial-probability-of-chromatin-condensation: 2.5
+marker-detection-threashold: 0.12
+alive 1: 26.0
+dead 1: 304.0
+infected 1: 28.0
+alive 2: 423.0
+dead 2: 3072.0
+infected 2: 432.0
+alive 3: 918.0
+dead 3: 10002.0
+infected 3: 936.0
+alive 4: 1324.0
+dead 4: 20976.0
+infected 4: 1360.0
+alive 5: 1746.0
+dead 5: 35395.0
+infected 5: 1799.0
+Total de Celulas : 38940.0
+Fitness :16.599445386940907
+--------------------------------------Generacion 7------------
+Solucion Id: 0.0
+cell-density: 2.0
+initial-infected-cell-percentage: 1.3471223427423062
+viral-reach: 2.335569756808944
+infection-rate: 13.945959101327114
+mNeptune-effectiveness: 111.01017203500913
+initial-probability-of-death: 1.2381282238785873
+initial-probability-of-chromatin-condensation: 2.329708740954977
+marker-detection-threashold: 0.7170315160076828
+alive 1: 0.0
+dead 1: 2629.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 21620.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 56912.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 62830.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 62832.0
+infected 5: 0.0
+Total de Celulas : 62832.0
+Fitness :22.8894273675436
+--------Generacion 7------------
+Solucion Id: 1.0
+cell-density: 3.078150547144023
+initial-infected-cell-percentage: 4.076361416606623
+viral-reach: 2.0018453674675696
+infection-rate: 11.649327091211156
+mNeptune-effectiveness: 121.2477806463163
+initial-probability-of-death: 0.9115664887404235
+initial-probability-of-chromatin-condensation: 2.4408538253763727
+marker-detection-threashold: 0.12
+alive 1: 710.0
+dead 1: 2704.0
+infected 1: 816.0
+alive 2: 3408.0
+dead 2: 22603.0
+infected 2: 3706.0
+alive 3: 6014.0
+dead 3: 63787.0
+infected 3: 6584.0
+alive 4: 929.0
+dead 4: 95772.0
+infected 4: 931.0
+alive 5: 0.0
+dead 5: 96703.0
+infected 5: 0.0
+Total de Celulas : 96703.0
+Fitness :22.8894273675436
+--------Generacion 7------------
+Solucion Id: 2.0
+cell-density: 3.1566859705227466
+initial-infected-cell-percentage: 2.9615746329787926
+viral-reach: 2.1246243723397216
+infection-rate: 11.980653443150949
+mNeptune-effectiveness: 160.071229732393
+initial-probability-of-death: 1.1901897979425335
+initial-probability-of-chromatin-condensation: 2.4263671482386227
+marker-detection-threashold: 0.6497004601033038
+alive 1: 0.0
+dead 1: 3981.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 30347.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 83024.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 99131.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 99171.0
+infected 5: 0.0
+Total de Celulas : 99171.0
+Fitness :22.8894273675436
+--------Generacion 7------------
+Solucion Id: 3.0
+cell-density: 3.1566859705227466
+initial-infected-cell-percentage: 2.9615746329787926
+viral-reach: 2.1246243723397216
+infection-rate: 11.980653443150949
+mNeptune-effectiveness: 160.071229732393
+initial-probability-of-death: 0.5465270310473066
+initial-probability-of-chromatin-condensation: 2.4263671482386227
+marker-detection-threashold: 0.6497004601033038
+alive 1: 0.0
+dead 1: 2271.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 23059.0
+infected 2: 0.0
+alive 3: 2.0
+dead 3: 70305.0
+infected 3: 2.0
+alive 4: 9.0
+dead 4: 97950.0
+infected 4: 9.0
+alive 5: 1.0
+dead 5: 99170.0
+infected 5: 1.0
+Total de Celulas : 99172.0
+Fitness :22.888022772431103
+--------Generacion 7------------
+Solucion Id: 4.0
+cell-density: 3.1566859705227466
+initial-infected-cell-percentage: 2.9615746329787926
+viral-reach: 2.1246243723397216
+infection-rate: 11.980653443150949
+mNeptune-effectiveness: 160.071229732393
+initial-probability-of-death: 1.287574365666721
+initial-probability-of-chromatin-condensation: 2.4263671482386227
+marker-detection-threashold: 0.6497004601033038
+alive 1: 0.0
+dead 1: 3899.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 31092.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 84141.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 99149.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 99171.0
+infected 5: 0.0
+Total de Celulas : 99171.0
+Fitness :22.8894273675436
+--------------------------------------Generacion 8------------
+Solucion Id: 0.0
+cell-density: 1.4731136403267557
+initial-infected-cell-percentage: 4.623856267905998
+viral-reach: 2.0632348699036456
+infection-rate: 6.995289565825129
+mNeptune-effectiveness: 197.74870242127201
+initial-probability-of-death: 1.1137070863563416
+initial-probability-of-chromatin-condensation: 2.4336104868074977
+marker-detection-threashold: 0.5104145122928099
+alive 1: 0.0
+dead 1: 376.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 3392.0
+infected 2: 0.0
+alive 3: 2.0
+dead 3: 10157.0
+infected 3: 2.0
+alive 4: 4.0
+dead 4: 20592.0
+infected 4: 4.0
+alive 5: 5.0
+dead 5: 34583.0
+infected 5: 5.0
+Total de Celulas : 34593.0
+Fitness :22.869293994743018
+--------Generacion 8------------
+Solucion Id: 1.0
+cell-density: 3.1174182588333847
+initial-infected-cell-percentage: 4.590013975542477
+viral-reach: 1.28084759364996
+infection-rate: 5.672105624923933
+mNeptune-effectiveness: 140.65950518935466
+initial-probability-of-death: 1.4764997197615677
+initial-probability-of-chromatin-condensation: 2.43474709727169
+marker-detection-threashold: 0.7271180036795678
+alive 1: 0.0
+dead 1: 174.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 1436.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 4390.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 8583.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 14461.0
+infected 5: 0.0
+Total de Celulas : 14461.0
+Fitness :22.8894273675436
+--------Generacion 8------------
+Solucion Id: 2.0
+cell-density: 3.1566859705227466
+initial-infected-cell-percentage: 2.9615746329787926
+viral-reach: 2.1246243723397216
+infection-rate: 11.980653443150949
+mNeptune-effectiveness: 160.071229732393
+initial-probability-of-death: 1.399128170153631
+initial-probability-of-chromatin-condensation: 2.4263671482386227
+marker-detection-threashold: 0.6497004601033038
+alive 1: 0.0
+dead 1: 4227.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 31239.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 84495.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 99156.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 99171.0
+infected 5: 0.0
+Total de Celulas : 99171.0
+Fitness :22.8894273675436
+--------Generacion 8------------
+Solucion Id: 3.0
+cell-density: 3.1566859705227466
+initial-infected-cell-percentage: 2.9615746329787926
+viral-reach: 2.1246243723397216
+infection-rate: 11.980653443150949
+mNeptune-effectiveness: 160.071229732393
+initial-probability-of-death: 1.4930859374424776
+initial-probability-of-chromatin-condensation: 2.4263671482386227
+marker-detection-threashold: 0.6497004601033038
+alive 1: 0.0
+dead 1: 4551.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 32161.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 85967.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 99161.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 99171.0
+infected 5: 0.0
+Total de Celulas : 99171.0
+Fitness :22.8894273675436
+--------Generacion 8------------
+Solucion Id: 4.0
+cell-density: 2.0
+initial-infected-cell-percentage: 1.3471223427423062
+viral-reach: 2.335569756808944
+infection-rate: 13.945959101327114
+mNeptune-effectiveness: 111.01017203500913
+initial-probability-of-death: 0.7273791264095405
+initial-probability-of-chromatin-condensation: 2.329708740954977
+marker-detection-threashold: 0.7170315160076828
+alive 1: 0.0
+dead 1: 1928.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 17926.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 51287.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 62693.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 62832.0
+infected 5: 0.0
+Total de Celulas : 62832.0
+Fitness :22.8894273675436
+--------------------------------------Generacion 9------------
+Solucion Id: 0.0
+cell-density: 1.7365568201633779
+initial-infected-cell-percentage: 2.2812821767213523
+viral-reach: 2.1994023133562948
+infection-rate: 14.758139380265003
+mNeptune-effectiveness: 163.48967040437094
+initial-probability-of-death: 0.5319676900483089
+initial-probability-of-chromatin-condensation: 2.4617340153696388
+marker-detection-threashold: 0.6733929228952812
+alive 1: 0.0
+dead 1: 1076.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 10938.0
+infected 2: 0.0
+alive 3: 2.0
+dead 3: 33628.0
+infected 3: 2.0
+alive 4: 5.0
+dead 4: 52974.0
+infected 4: 5.0
+alive 5: 7.0
+dead 5: 54548.0
+infected 5: 7.0
+Total de Celulas : 54562.0
+Fitness :22.87155660116205
+--------Generacion 9------------
+Solucion Id: 1.0
+cell-density: 2.943320987029141
+initial-infected-cell-percentage: 2.985489305324152
+viral-reach: 2.3785851777467792
+infection-rate: 6.002423961860423
+mNeptune-effectiveness: 154.37943722814057
+initial-probability-of-death: 1.1238845367103156
+initial-probability-of-chromatin-condensation: 2.491869430159375
+marker-detection-threashold: 0.6137230141502463
+alive 1: 0.0
+dead 1: 2371.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 23276.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 67784.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 92260.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 92468.0
+infected 5: 0.0
+Total de Celulas : 92468.0
+Fitness :22.8894273675436
+--------Generacion 9------------
+Solucion Id: 2.0
+cell-density: 3.1566859705227466
+initial-infected-cell-percentage: 2.9615746329787926
+viral-reach: 2.1246243723397216
+infection-rate: 11.980653443150949
+mNeptune-effectiveness: 160.071229732393
+initial-probability-of-death: 1.3491553621085002
+initial-probability-of-chromatin-condensation: 2.4263671482386227
+marker-detection-threashold: 0.6497004601033038
+alive 1: 0.0
+dead 1: 4043.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 30600.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 83564.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 99145.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 99171.0
+infected 5: 0.0
+Total de Celulas : 99171.0
+Fitness :22.8894273675436
+--------Generacion 9------------
+Solucion Id: 3.0
+cell-density: 2.0
+initial-infected-cell-percentage: 1.3471223427423062
+viral-reach: 2.335569756808944
+infection-rate: 13.945959101327114
+mNeptune-effectiveness: 111.01017203500913
+initial-probability-of-death: 1.2662824811753652
+initial-probability-of-chromatin-condensation: 2.329708740954977
+marker-detection-threashold: 0.7170315160076828
+alive 1: 0.0
+dead 1: 2860.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 21825.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 56598.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 62828.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 62832.0
+infected 5: 0.0
+Total de Celulas : 62832.0
+Fitness :22.8894273675436
+--------Generacion 9------------
+Solucion Id: 4.0
+cell-density: 1.4731136403267557
+initial-infected-cell-percentage: 4.623856267905998
+viral-reach: 2.0632348699036456
+infection-rate: 6.995289565825129
+mNeptune-effectiveness: 197.74870242127201
+initial-probability-of-death: 1.3161106957463047
+initial-probability-of-chromatin-condensation: 2.4336104868074977
+marker-detection-threashold: 0.5104145122928099
+alive 1: 0.0
+dead 1: 371.0
+infected 1: 0.0
+alive 2: 2.0
+dead 2: 3643.0
+infected 2: 2.0
+alive 3: 1.0
+dead 3: 10797.0
+infected 3: 1.0
+alive 4: 1.0
+dead 4: 21268.0
+infected 4: 1.0
+alive 5: 2.0
+dead 5: 35633.0
+infected 5: 2.0
+Total de Celulas : 35637.0
+Fitness :22.881609879739766
+--------------------------------------Generacion 10------------
+Solucion Id: 0.0
+cell-density: 3.5466217320671385
+initial-infected-cell-percentage: 3.452569222313675
+viral-reach: 2.001761218297721
+infection-rate: 7.612942704859611
+mNeptune-effectiveness: 103.19074079237946
+initial-probability-of-death: 1.3234292160309797
+initial-probability-of-chromatin-condensation: 1.145789514655861
+marker-detection-threashold: 0.5604639261814546
+alive 1: 0.0
+dead 1: 2823.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 22908.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 64613.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 109400.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 111421.0
+infected 5: 0.0
+Total de Celulas : 111421.0
+Fitness :22.8894273675436
+--------Generacion 10------------
+Solucion Id: 1.0
+cell-density: 4.213323535125845
+initial-infected-cell-percentage: 3.452569222313675
+viral-reach: 1.2029716396348515
+infection-rate: 6.168107324315361
+mNeptune-effectiveness: 167.2620957023624
+initial-probability-of-death: 1.4386385280627363
+initial-probability-of-chromatin-condensation: 1.3900339307729486
+marker-detection-threashold: 0.6910433125998303
+alive 1: 0.0
+dead 1: 212.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 2392.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 6799.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 14314.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 24707.0
+infected 5: 0.0
+Total de Celulas : 24707.0
+Fitness :22.8894273675436
+--------Generacion 10------------
+Solucion Id: 2.0
+cell-density: 1.4731136403267557
+initial-infected-cell-percentage: 4.623856267905998
+viral-reach: 2.0632348699036456
+infection-rate: 6.995289565825129
+mNeptune-effectiveness: 197.74870242127201
+initial-probability-of-death: 1.1969738147270643
+initial-probability-of-chromatin-condensation: 2.4336104868074977
+marker-detection-threashold: 0.5104145122928099
+alive 1: 0.0
+dead 1: 343.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 3467.0
+infected 2: 0.0
+alive 3: 3.0
+dead 3: 10491.0
+infected 3: 3.0
+alive 4: 4.0
+dead 4: 21110.0
+infected 4: 4.0
+alive 5: 6.0
+dead 5: 35765.0
+infected 5: 6.0
+Total de Celulas : 35777.0
+Fitness :22.866066920781247
+--------Generacion 10------------
+Solucion Id: 3.0
+cell-density: 2.0
+initial-infected-cell-percentage: 1.3471223427423062
+viral-reach: 2.335569756808944
+infection-rate: 13.945959101327114
+mNeptune-effectiveness: 111.01017203500913
+initial-probability-of-death: 0.9608672920856595
+initial-probability-of-chromatin-condensation: 2.329708740954977
+marker-detection-threashold: 0.7170315160076828
+alive 1: 0.0
+dead 1: 2213.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 19452.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 53935.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 62806.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 62832.0
+infected 5: 0.0
+Total de Celulas : 62832.0
+Fitness :22.8894273675436
+--------Generacion 10------------
+Solucion Id: 4.0
+cell-density: 1.4731136403267557
+initial-infected-cell-percentage: 4.623856267905998
+viral-reach: 2.0632348699036456
+infection-rate: 6.995289565825129
+mNeptune-effectiveness: 197.74870242127201
+initial-probability-of-death: 0.6153581808050579
+initial-probability-of-chromatin-condensation: 2.4336104868074977
+marker-detection-threashold: 0.5104145122928099
+alive 1: 0.0
+dead 1: 152.0
+infected 1: 0.0
+alive 2: 11.0
+dead 2: 2377.0
+infected 2: 11.0
+alive 3: 36.0
+dead 3: 8007.0
+infected 3: 36.0
+alive 4: 79.0
+dead 4: 17313.0
+infected 4: 79.0
+alive 5: 132.0
+dead 5: 30584.0
+infected 5: 132.0
+Total de Celulas : 30848.0
+Fitness :22.293615634772912
+--------------------------------------Generacion 11------------
+Solucion Id: 0.0
+cell-density: 1.4731136403267557
+initial-infected-cell-percentage: 1.881895012664589
+viral-reach: 1.8032933418775912
+infection-rate: 12.536251407629093
+mNeptune-effectiveness: 155.31902778396102
+initial-probability-of-death: 0.57473360213669
+initial-probability-of-chromatin-condensation: 1.2100439866637318
+marker-detection-threashold: 0.612947614481506
+alive 1: 0.0
+dead 1: 287.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 2673.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 8907.0
+infected 3: 0.0
+alive 4: 3.0
+dead 4: 19130.0
+infected 4: 3.0
+alive 5: 0.0
+dead 5: 33237.0
+infected 5: 0.0
+Total de Celulas : 33237.0
+Fitness :22.8894273675436
+--------Generacion 11------------
+Solucion Id: 1.0
+cell-density: 3.101527634353792
+initial-infected-cell-percentage: 1.3867592339088515
+viral-reach: 1.683762177841093
+infection-rate: 6.995289565825129
+mNeptune-effectiveness: 181.3943812702684
+initial-probability-of-death: 1.1747177901263466
+initial-probability-of-chromatin-condensation: 2.3187512968482737
+marker-detection-threashold: 0.5692751861058624
+alive 1: 0.0
+dead 1: 862.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 7634.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 22570.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 45360.0
+infected 4: 0.0
+alive 5: 4.0
+dead 5: 76098.0
+infected 5: 4.0
+Total de Celulas : 76106.0
+Fitness :22.882106212686562
+--------Generacion 11------------
+Solucion Id: 2.0
+cell-density: 4.213323535125845
+initial-infected-cell-percentage: 3.452569222313675
+viral-reach: 1.2029716396348515
+infection-rate: 6.168107324315361
+mNeptune-effectiveness: 167.2620957023624
+initial-probability-of-death: 1.4793110513878496
+initial-probability-of-chromatin-condensation: 1.3900339307729486
+marker-detection-threashold: 0.6910433125998303
+alive 1: 0.0
+dead 1: 175.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 2287.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 7078.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 14700.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 25612.0
+infected 5: 0.0
+Total de Celulas : 25612.0
+Fitness :22.8894273675436
+--------Generacion 11------------
+Solucion Id: 3.0
+cell-density: 1.4731136403267557
+initial-infected-cell-percentage: 4.623856267905998
+viral-reach: 2.0632348699036456
+infection-rate: 6.995289565825129
+mNeptune-effectiveness: 197.74870242127201
+initial-probability-of-death: 1.4748202961525327
+initial-probability-of-chromatin-condensation: 2.4336104868074977
+marker-detection-threashold: 0.5104145122928099
+alive 1: 0.0
+dead 1: 475.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 3817.0
+infected 2: 0.0
+alive 3: 1.0
+dead 3: 10471.0
+infected 3: 1.0
+alive 4: 0.0
+dead 4: 21256.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 36063.0
+infected 5: 0.0
+Total de Celulas : 36063.0
+Fitness :22.8894273675436
+--------Generacion 11------------
+Solucion Id: 4.0
+cell-density: 4.213323535125845
+initial-infected-cell-percentage: 3.452569222313675
+viral-reach: 1.2029716396348515
+infection-rate: 6.168107324315361
+mNeptune-effectiveness: 167.2620957023624
+initial-probability-of-death: 1.3290124320675467
+initial-probability-of-chromatin-condensation: 1.3900339307729486
+marker-detection-threashold: 0.6910433125998303
+alive 1: 0.0
+dead 1: 251.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 2465.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 7111.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 15088.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 26332.0
+infected 5: 0.0
+Total de Celulas : 26332.0
+Fitness :22.8894273675436
+--------------------------------------Generacion 12------------
+Solucion Id: 0.0
+cell-density: 4.5415384482964125
+initial-infected-cell-percentage: 4.917917047184056
+viral-reach: 1.0080300754801272
+infection-rate: 12.336870603452073
+mNeptune-effectiveness: 117.1190951004979
+initial-probability-of-death: 1.4152805142687148
+initial-probability-of-chromatin-condensation: 2.184327476219772
+marker-detection-threashold: 0.7288799363249556
+alive 1: 0.0
+dead 1: 493.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 3512.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 9678.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 19427.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 32071.0
+infected 5: 0.0
+Total de Celulas : 32071.0
+Fitness :22.8894273675436
+--------Generacion 12------------
+Solucion Id: 1.0
+cell-density: 3.7483521654543446
+initial-infected-cell-percentage: 1.5556528381131074
+viral-reach: 1.4433669087379721
+infection-rate: 12.414227695181943
+mNeptune-effectiveness: 175.02058192178697
+initial-probability-of-death: 1.2897917838194282
+initial-probability-of-chromatin-condensation: 1.194373241050595
+marker-detection-threashold: 0.5747613285961569
+alive 1: 0.0
+dead 1: 1530.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 11463.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 31716.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 62820.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 103560.0
+infected 5: 0.0
+Total de Celulas : 103560.0
+Fitness :22.8894273675436
+--------Generacion 12------------
+Solucion Id: 2.0
+cell-density: 3.101527634353792
+initial-infected-cell-percentage: 1.3867592339088515
+viral-reach: 1.683762177841093
+infection-rate: 6.995289565825129
+mNeptune-effectiveness: 181.3943812702684
+initial-probability-of-death: 1.4567728823684196
+initial-probability-of-chromatin-condensation: 2.3187512968482737
+marker-detection-threashold: 0.5692751861058624
+alive 1: 0.0
+dead 1: 1077.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 8214.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 23794.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 47681.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 79720.0
+infected 5: 0.0
+Total de Celulas : 79720.0
+Fitness :22.8894273675436
+--------Generacion 12------------
+Solucion Id: 3.0
+cell-density: 4.213323535125845
+initial-infected-cell-percentage: 3.452569222313675
+viral-reach: 1.2029716396348515
+infection-rate: 6.168107324315361
+mNeptune-effectiveness: 167.2620957023624
+initial-probability-of-death: 1.1562843401049832
+initial-probability-of-chromatin-condensation: 1.3900339307729486
+marker-detection-threashold: 0.6910433125998303
+alive 1: 0.0
+dead 1: 151.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 2010.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 6770.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 14323.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 25094.0
+infected 5: 0.0
+Total de Celulas : 25094.0
+Fitness :22.8894273675436
+--------Generacion 12------------
+Solucion Id: 4.0
+cell-density: 1.4731136403267557
+initial-infected-cell-percentage: 1.881895012664589
+viral-reach: 1.8032933418775912
+infection-rate: 12.536251407629093
+mNeptune-effectiveness: 155.31902778396102
+initial-probability-of-death: 1.0673617170719936
+initial-probability-of-chromatin-condensation: 1.2100439866637318
+marker-detection-threashold: 0.612947614481506
+alive 1: 0.0
+dead 1: 330.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 3292.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 9583.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 20002.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 34098.0
+infected 5: 0.0
+Total de Celulas : 34098.0
+Fitness :22.8894273675436
+--------------------------------------Generacion 13------------
+Solucion Id: 0.0
+cell-density: 2.3514439351890535
+initial-infected-cell-percentage: 4.97004894473163
+viral-reach: 1.3539357709647977
+infection-rate: 12.819226473600462
+mNeptune-effectiveness: 161.2905617431617
+initial-probability-of-death: 0.9649315103939775
+initial-probability-of-chromatin-condensation: 1.30003895871834
+marker-detection-threashold: 0.7315791100433068
+alive 1: 0.0
+dead 1: 194.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 2423.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 7802.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 16062.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 27422.0
+infected 5: 0.0
+Total de Celulas : 27422.0
+Fitness :22.8894273675436
+--------Generacion 13------------
+Solucion Id: 1.0
+cell-density: 3.3275780423793746
+initial-infected-cell-percentage: 0.5363885064907026
+viral-reach: 1.5031324907562214
+infection-rate: 8.932445489644095
+mNeptune-effectiveness: 172.66785882248232
+initial-probability-of-death: 0.8172001193006452
+initial-probability-of-chromatin-condensation: 1.258227592158599
+marker-detection-threashold: 0.5491427460950755
+alive 1: 0.0
+dead 1: 560.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 5442.0
+infected 2: 0.0
+alive 3: 3.0
+dead 3: 17534.0
+infected 3: 3.0
+alive 4: 1.0
+dead 4: 37019.0
+infected 4: 1.0
+alive 5: 6.0
+dead 5: 63833.0
+infected 5: 6.0
+Total de Celulas : 63845.0
+Fitness :22.876336718682236
+--------Generacion 13------------
+Solucion Id: 2.0
+cell-density: 3.7483521654543446
+initial-infected-cell-percentage: 1.5556528381131074
+viral-reach: 1.4433669087379721
+infection-rate: 12.414227695181943
+mNeptune-effectiveness: 175.02058192178697
+initial-probability-of-death: 1.4286087429518664
+initial-probability-of-chromatin-condensation: 1.194373241050595
+marker-detection-threashold: 0.5747613285961569
+alive 1: 0.0
+dead 1: 1434.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 11199.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 30950.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 61132.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 101626.0
+infected 5: 0.0
+Total de Celulas : 101626.0
+Fitness :22.8894273675436
+--------Generacion 13------------
+Solucion Id: 3.0
+cell-density: 4.213323535125845
+initial-infected-cell-percentage: 3.452569222313675
+viral-reach: 1.2029716396348515
+infection-rate: 6.168107324315361
+mNeptune-effectiveness: 167.2620957023624
+initial-probability-of-death: 0.7754601411828687
+initial-probability-of-chromatin-condensation: 1.3900339307729486
+marker-detection-threashold: 0.6910433125998303
+alive 1: 0.0
+dead 1: 203.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 2481.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 7797.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 15634.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 26434.0
+infected 5: 0.0
+Total de Celulas : 26434.0
+Fitness :22.8894273675436
+--------Generacion 13------------
+Solucion Id: 4.0
+cell-density: 3.101527634353792
+initial-infected-cell-percentage: 1.3867592339088515
+viral-reach: 1.683762177841093
+infection-rate: 6.995289565825129
+mNeptune-effectiveness: 181.3943812702684
+initial-probability-of-death: 0.9651690320618369
+initial-probability-of-chromatin-condensation: 2.3187512968482737
+marker-detection-threashold: 0.5692751861058624
+alive 1: 0.0
+dead 1: 781.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 7586.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 22068.0
+infected 3: 0.0
+alive 4: 2.0
+dead 4: 44141.0
+infected 4: 2.0
+alive 5: 2.0
+dead 5: 74588.0
+infected 5: 2.0
+Total de Celulas : 74592.0
+Fitness :22.885692482073647
+--------------------------------------Generacion 14------------
+Solucion Id: 0.0
+cell-density: 2.3861728076146536
+initial-infected-cell-percentage: 0.6601173187928944
+viral-reach: 2.335120933080142
+infection-rate: 8.393377729386842
+mNeptune-effectiveness: 195.93182450148475
+initial-probability-of-death: 1.0880459862251661
+initial-probability-of-chromatin-condensation: 2.3229640527621225
+marker-detection-threashold: 0.561544249420531
+alive 1: 0.0
+dead 1: 2090.0
+infected 1: 0.0
+alive 2: 1.0
+dead 2: 19302.0
+infected 2: 1.0
+alive 3: 1.0
+dead 3: 55139.0
+infected 3: 1.0
+alive 4: 13.0
+dead 4: 74782.0
+infected 4: 13.0
+alive 5: 0.0
+dead 5: 74964.0
+infected 5: 0.0
+Total de Celulas : 74964.0
+Fitness :22.8894273675436
+--------Generacion 14------------
+Solucion Id: 1.0
+cell-density: 2.841830257479471
+initial-infected-cell-percentage: 0.961573870199777
+viral-reach: 1.593447334298657
+infection-rate: 8.476911688108848
+mNeptune-effectiveness: 83.07129411474243
+initial-probability-of-death: 1.1194410267218085
+initial-probability-of-chromatin-condensation: 2.052008137850942
+marker-detection-threashold: 0.502744272801919
+alive 1: 0.0
+dead 1: 670.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 5773.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 16874.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 35228.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 59735.0
+infected 5: 0.0
+Total de Celulas : 59735.0
+Fitness :22.8894273675436
+--------Generacion 14------------
+Solucion Id: 2.0
+cell-density: 4.213323535125845
+initial-infected-cell-percentage: 3.452569222313675
+viral-reach: 1.2029716396348515
+infection-rate: 6.168107324315361
+mNeptune-effectiveness: 167.2620957023624
+initial-probability-of-death: 0.9257999533475615
+initial-probability-of-chromatin-condensation: 1.3900339307729486
+marker-detection-threashold: 0.6910433125998303
+alive 1: 0.0
+dead 1: 223.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 2289.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 7354.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 15436.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 26359.0
+infected 5: 0.0
+Total de Celulas : 26359.0
+Fitness :22.8894273675436
+--------Generacion 14------------
+Solucion Id: 3.0
+cell-density: 3.101527634353792
+initial-infected-cell-percentage: 1.3867592339088515
+viral-reach: 1.683762177841093
+infection-rate: 6.995289565825129
+mNeptune-effectiveness: 181.3943812702684
+initial-probability-of-death: 0.982665572904239
+initial-probability-of-chromatin-condensation: 2.3187512968482737
+marker-detection-threashold: 0.5692751861058624
+alive 1: 0.0
+dead 1: 775.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 7677.0
+infected 2: 0.0
+alive 3: 1.0
+dead 3: 22185.0
+infected 3: 1.0
+alive 4: 0.0
+dead 4: 44456.0
+infected 4: 0.0
+alive 5: 3.0
+dead 5: 74382.0
+infected 5: 3.0
+Total de Celulas : 74388.0
+Fitness :22.88380968274323
+--------Generacion 14------------
+Solucion Id: 4.0
+cell-density: 4.213323535125845
+initial-infected-cell-percentage: 3.452569222313675
+viral-reach: 1.2029716396348515
+infection-rate: 6.168107324315361
+mNeptune-effectiveness: 167.2620957023624
+initial-probability-of-death: 1.2594781580563223
+initial-probability-of-chromatin-condensation: 1.3900339307729486
+marker-detection-threashold: 0.6910433125998303
+alive 1: 0.0
+dead 1: 214.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 2271.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 7145.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 14993.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 25324.0
+infected 5: 0.0
+Total de Celulas : 25324.0
+Fitness :22.8894273675436
+--------------------------------------Generacion 15------------
+Solucion Id: 0.0
+cell-density: 2.1804063370144684
+initial-infected-cell-percentage: 1.713237735521529
+viral-reach: 1.8254491917557434
+infection-rate: 9.724289155788533
+mNeptune-effectiveness: 168.29129056085492
+initial-probability-of-death: 1.0872120911537084
+initial-probability-of-chromatin-condensation: 2.413776131872524
+marker-detection-threashold: 0.5729994289131822
+alive 1: 0.0
+dead 1: 817.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 6905.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 20305.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 41208.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 65034.0
+infected 5: 0.0
+Total de Celulas : 65034.0
+Fitness :22.8894273675436
+--------Generacion 15------------
+Solucion Id: 1.0
+cell-density: 3.39373458893021
+initial-infected-cell-percentage: 0.47080740951526867
+viral-reach: 1.4433669087379721
+infection-rate: 14.847645533673646
+mNeptune-effectiveness: 108.76252555305987
+initial-probability-of-death: 0.9984697023331403
+initial-probability-of-chromatin-condensation: 0.7445362328056513
+marker-detection-threashold: 0.6373582382388727
+alive 1: 0.0
+dead 1: 1167.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 9887.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 28222.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 56475.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 94189.0
+infected 5: 0.0
+Total de Celulas : 94189.0
+Fitness :22.8894273675436
+--------Generacion 15------------
+Solucion Id: 2.0
+cell-density: 2.841830257479471
+initial-infected-cell-percentage: 0.961573870199777
+viral-reach: 1.593447334298657
+infection-rate: 8.476911688108848
+mNeptune-effectiveness: 83.07129411474243
+initial-probability-of-death: 1.458326547093844
+initial-probability-of-chromatin-condensation: 2.052008137850942
+marker-detection-threashold: 0.502744272801919
+alive 1: 0.0
+dead 1: 766.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 6557.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 18833.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 37570.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 62457.0
+infected 5: 0.0
+Total de Celulas : 62457.0
+Fitness :22.8894273675436
+--------Generacion 15------------
+Solucion Id: 3.0
+cell-density: 4.213323535125845
+initial-infected-cell-percentage: 3.452569222313675
+viral-reach: 1.2029716396348515
+infection-rate: 6.168107324315361
+mNeptune-effectiveness: 167.2620957023624
+initial-probability-of-death: 0.6376907980376353
+initial-probability-of-chromatin-condensation: 1.3900339307729486
+marker-detection-threashold: 0.6910433125998303
+alive 1: 0.0
+dead 1: 213.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 2216.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 7147.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 15300.0
+infected 4: 0.0
+alive 5: 1.0
+dead 5: 26567.0
+infected 5: 1.0
+Total de Celulas : 26569.0
+Fitness :22.884184560234687
+--------Generacion 15------------
+Solucion Id: 4.0
+cell-density: 4.213323535125845
+initial-infected-cell-percentage: 3.452569222313675
+viral-reach: 1.2029716396348515
+infection-rate: 6.168107324315361
+mNeptune-effectiveness: 167.2620957023624
+initial-probability-of-death: 1.2647955978074452
+initial-probability-of-chromatin-condensation: 1.3900339307729486
+marker-detection-threashold: 0.6910433125998303
+alive 1: 0.0
+dead 1: 303.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 2620.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 7753.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 16626.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 28345.0
+infected 5: 0.0
+Total de Celulas : 28345.0
+Fitness :22.8894273675436
+--------------------------------------Generacion 16------------
+Solucion Id: 0.0
+cell-density: 3.452977772919963
+initial-infected-cell-percentage: 0.6062713931264252
+viral-reach: 1.583276939853417
+infection-rate: 6.168107324315361
+mNeptune-effectiveness: 156.53255546352025
+initial-probability-of-death: 0.6018845511171756
+initial-probability-of-chromatin-condensation: 2.090544492324255
+marker-detection-threashold: 0.5503117812055427
+alive 1: 0.0
+dead 1: 332.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 4458.0
+infected 2: 0.0
+alive 3: 3.0
+dead 3: 15364.0
+infected 3: 3.0
+alive 4: 6.0
+dead 4: 32865.0
+infected 4: 6.0
+alive 5: 8.0
+dead 5: 56637.0
+infected 5: 8.0
+Total de Celulas : 56653.0
+Fitness :22.869757475889404
+--------Generacion 16------------
+Solucion Id: 1.0
+cell-density: 4.906329219806162
+initial-infected-cell-percentage: 3.452569222313675
+viral-reach: 1.2029716396348515
+infection-rate: 14.400736647097489
+mNeptune-effectiveness: 119.60745365843488
+initial-probability-of-death: 1.0927334770457828
+initial-probability-of-chromatin-condensation: 0.6190448077648976
+marker-detection-threashold: 0.5072508677290852
+alive 1: 0.0
+dead 1: 1232.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 10251.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 28516.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 56705.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 94733.0
+infected 5: 0.0
+Total de Celulas : 94733.0
+Fitness :22.8894273675436
+--------Generacion 16------------
+Solucion Id: 2.0
+cell-density: 4.213323535125845
+initial-infected-cell-percentage: 3.452569222313675
+viral-reach: 1.2029716396348515
+infection-rate: 6.168107324315361
+mNeptune-effectiveness: 167.2620957023624
+initial-probability-of-death: 1.3350733146613274
+initial-probability-of-chromatin-condensation: 1.3900339307729486
+marker-detection-threashold: 0.6910433125998303
+alive 1: 0.0
+dead 1: 424.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 2768.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 7857.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 16261.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 28076.0
+infected 5: 0.0
+Total de Celulas : 28076.0
+Fitness :22.8894273675436
+--------Generacion 16------------
+Solucion Id: 3.0
+cell-density: 3.39373458893021
+initial-infected-cell-percentage: 0.47080740951526867
+viral-reach: 1.4433669087379721
+infection-rate: 14.847645533673646
+mNeptune-effectiveness: 108.76252555305987
+initial-probability-of-death: 0.823242485170429
+initial-probability-of-chromatin-condensation: 0.7445362328056513
+marker-detection-threashold: 0.6373582382388727
+alive 1: 0.0
+dead 1: 1063.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 9251.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 27256.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 54641.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 91663.0
+infected 5: 0.0
+Total de Celulas : 91663.0
+Fitness :22.8894273675436
+--------Generacion 16------------
+Solucion Id: 4.0
+cell-density: 3.39373458893021
+initial-infected-cell-percentage: 0.47080740951526867
+viral-reach: 1.4433669087379721
+infection-rate: 14.847645533673646
+mNeptune-effectiveness: 108.76252555305987
+initial-probability-of-death: 1.289194451413369
+initial-probability-of-chromatin-condensation: 0.7445362328056513
+marker-detection-threashold: 0.6373582382388727
+alive 1: 0.0
+dead 1: 1269.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 10491.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 29610.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 59055.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 96514.0
+infected 5: 0.0
+Total de Celulas : 96514.0
+Fitness :22.8894273675436
+--------------------------------------Generacion 17------------
+Solucion Id: 0.0
+cell-density: 3.162762466061039
+initial-infected-cell-percentage: 0.5385394013208469
+viral-reach: 1.5133219242956946
+infection-rate: 9.22276382654891
+mNeptune-effectiveness: 132.64754050829006
+initial-probability-of-death: 0.9935585435648093
+initial-probability-of-chromatin-condensation: 2.3933443526211633
+marker-detection-threashold: 0.682793365778532
+alive 1: 0.0
+dead 1: 491.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 5566.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 17631.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 36433.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 62479.0
+infected 5: 0.0
+Total de Celulas : 62479.0
+Fitness :22.8894273675436
+--------Generacion 17------------
+Solucion Id: 1.0
+cell-density: 3.4233561809250865
+initial-infected-cell-percentage: 3.177299790474816
+viral-reach: 2.372738620255955
+infection-rate: 10.507876428994503
+mNeptune-effectiveness: 120.30437045910176
+initial-probability-of-death: 1.4178037360717195
+initial-probability-of-chromatin-condensation: 1.57907086112128
+marker-detection-threashold: 0.5067196797158182
+alive 1: 0.0
+dead 1: 6739.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 48291.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 105336.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 107548.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 107548.0
+infected 5: 0.0
+Total de Celulas : 107548.0
+Fitness :22.8894273675436
+--------Generacion 17------------
+Solucion Id: 2.0
+cell-density: 4.213323535125845
+initial-infected-cell-percentage: 3.452569222313675
+viral-reach: 1.2029716396348515
+infection-rate: 6.168107324315361
+mNeptune-effectiveness: 167.2620957023624
+initial-probability-of-death: 1.1701826660021433
+initial-probability-of-chromatin-condensation: 1.3900339307729486
+marker-detection-threashold: 0.6910433125998303
+alive 1: 0.0
+dead 1: 221.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 2388.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 7381.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 15470.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 26588.0
+infected 5: 0.0
+Total de Celulas : 26588.0
+Fitness :22.8894273675436
+--------Generacion 17------------
+Solucion Id: 3.0
+cell-density: 3.39373458893021
+initial-infected-cell-percentage: 0.47080740951526867
+viral-reach: 1.4433669087379721
+infection-rate: 14.847645533673646
+mNeptune-effectiveness: 108.76252555305987
+initial-probability-of-death: 0.8252128090199874
+initial-probability-of-chromatin-condensation: 0.7445362328056513
+marker-detection-threashold: 0.6373582382388727
+alive 1: 0.0
+dead 1: 1024.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 9222.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 27564.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 55437.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 92001.0
+infected 5: 0.0
+Total de Celulas : 92001.0
+Fitness :22.8894273675436
+--------Generacion 17------------
+Solucion Id: 4.0
+cell-density: 4.906329219806162
+initial-infected-cell-percentage: 3.452569222313675
+viral-reach: 1.2029716396348515
+infection-rate: 14.400736647097489
+mNeptune-effectiveness: 119.60745365843488
+initial-probability-of-death: 1.2337686509627543
+initial-probability-of-chromatin-condensation: 0.6190448077648976
+marker-detection-threashold: 0.5072508677290852
+alive 1: 0.0
+dead 1: 1154.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 9698.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 28306.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 56979.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 95282.0
+infected 5: 0.0
+Total de Celulas : 95282.0
+Fitness :22.8894273675436
+--------------------------------------Generacion 18------------
+Solucion Id: 0.0
+cell-density: 3.8538487754479624
+initial-infected-cell-percentage: 2.139444381660052
+viral-reach: 1.5448264829893212
+infection-rate: 8.770417598330948
+mNeptune-effectiveness: 176.26069266760064
+initial-probability-of-death: 1.1953423251818849
+initial-probability-of-chromatin-condensation: 1.0007918293544515
+marker-detection-threashold: 0.5482983393646569
+alive 1: 0.0
+dead 1: 1075.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 10365.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 30459.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 61109.0
+infected 4: 1.0
+alive 5: 1.0
+dead 5: 102455.0
+infected 5: 1.0
+Total de Celulas : 102457.0
+Fitness :22.88806780684292
+--------Generacion 18------------
+Solucion Id: 1.0
+cell-density: 3.948985884544464
+initial-infected-cell-percentage: 3.3539275528485546
+viral-reach: 1.3231692741864118
+infection-rate: 14.624191090385567
+mNeptune-effectiveness: 114.18498960574738
+initial-probability-of-death: 1.0055634137091916
+initial-probability-of-chromatin-condensation: 2.0548076827972546
+marker-detection-threashold: 0.5923499637680145
+alive 1: 0.0
+dead 1: 1022.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 8853.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 26028.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 52843.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 88816.0
+infected 5: 0.0
+Total de Celulas : 88816.0
+Fitness :22.8894273675436
+--------Generacion 18------------
+Solucion Id: 2.0
+cell-density: 3.39373458893021
+initial-infected-cell-percentage: 0.47080740951526867
+viral-reach: 1.4433669087379721
+infection-rate: 14.847645533673646
+mNeptune-effectiveness: 108.76252555305987
+initial-probability-of-death: 1.404881593628391
+initial-probability-of-chromatin-condensation: 0.7445362328056513
+marker-detection-threashold: 0.6373582382388727
+alive 1: 0.0
+dead 1: 1713.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 11719.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 31459.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 61124.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 98971.0
+infected 5: 0.0
+Total de Celulas : 98971.0
+Fitness :22.8894273675436
+--------Generacion 18------------
+Solucion Id: 3.0
+cell-density: 4.906329219806162
+initial-infected-cell-percentage: 3.452569222313675
+viral-reach: 1.2029716396348515
+infection-rate: 14.400736647097489
+mNeptune-effectiveness: 119.60745365843488
+initial-probability-of-death: 1.304490936999248
+initial-probability-of-chromatin-condensation: 0.6190448077648976
+marker-detection-threashold: 0.5072508677290852
+alive 1: 0.0
+dead 1: 1390.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 10767.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 30024.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 59071.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 97112.0
+infected 5: 0.0
+Total de Celulas : 97112.0
+Fitness :22.8894273675436
+--------Generacion 18------------
+Solucion Id: 4.0
+cell-density: 4.906329219806162
+initial-infected-cell-percentage: 3.452569222313675
+viral-reach: 1.2029716396348515
+infection-rate: 14.400736647097489
+mNeptune-effectiveness: 119.60745365843488
+initial-probability-of-death: 1.1992312957246547
+initial-probability-of-chromatin-condensation: 0.6190448077648976
+marker-detection-threashold: 0.5072508677290852
+alive 1: 0.0
+dead 1: 1185.0
+infected 1: 0.0
+alive 2: 0.0
+dead 2: 9664.0
+infected 2: 0.0
+alive 3: 0.0
+dead 3: 28337.0
+infected 3: 0.0
+alive 4: 0.0
+dead 4: 56507.0
+infected 4: 0.0
+alive 5: 0.0
+dead 5: 93473.0
+infected 5: 0.0
+Total de Celulas : 93473.0
+Fitness :22.8894273675436
+------------------------------
